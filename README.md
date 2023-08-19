@@ -5,7 +5,7 @@ This PYTHON script generates 1000 random English words using the NLTK and RANDOM
 1. Windows 10 or higher
 2. VBS needs to be turned on (if you haven't turned it off yourself and you are on a Windows computer it's probably on)
 
-# Please know that the file links that I listed below are from this GitHub page
+## Please know that the file links that I listed below are from this GitHub page
 
 # How to set up?
 ### Step 1: Download Python from the link down below
