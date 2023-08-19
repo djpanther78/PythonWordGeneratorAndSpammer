@@ -8,9 +8,11 @@ This PYTHON script generates 1000 random English words using the NLTK and RANDOM
 ## Please know that the file links that I listed below are from this GitHub page!
 
 # How to set up?
-### Step 1: Download Python from the link down below
+
 ### If you wanna use a list that is already generated, then just download it from the link below, and if you wanna use it to spam go to the `Run the spambot` article
 `https://github.com/djpanther78/PythonWordGeneratorAndSpammer/blob/main/VBS-Spambot.vbs`
+
+### Step 1: Download Python from the link down below
 PYTHON (Warning: It's a direct download link from the official python website: `https://python.org`): `https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe`
 ### Step 2: Download The File(s) from the links down below, it will say that it can harm your device, but I guarantee you that it's completely safe.
 1. PYTHON-Wordgenerator: `https://github.com/djpanther78/PythonWordGenerator/blob/main/Python%20Wordgenerator.py`
