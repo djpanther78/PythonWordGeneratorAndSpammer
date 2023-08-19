@@ -28,6 +28,10 @@ Open the PYTHON-Wordgenerator, there should pop-up a Prompt for ~2 seconds, wait
 ### Step 6: Wait for 0-10 seconds
 ### Step 7: The spam starts
 
+# Modifications
+
+### 1. You can change the number of words you wanna generate by changing `1000` (Rule 11, Sign 13) to the amount you wish, sadly you can't generate unlimited words. What you can do is generate 2 and combine them together by copy and paste.
+## That was 1 form of modification, but you can modify the entire script if you want, if you wanna get help with it scroll all the way down to the bottom of this `README.md` file and you can see the contactoptions
 
 # Note from the maker
 
