@@ -14,3 +14,6 @@ PYTHON (Warning: It's a direct download link from the official python website: `
 1. PYTHON-Wordgenerator: `https://github.com/djpanther78/PythonWordGenerator/blob/main/Python%20Wordgenerator.py`
 **If you also wanna use the spambot then download this link:**
 2. VBS-Spambot: `https://github.com/djpanther78/PythonWordGenerator/blob/main/VBS-Spambot.vbs`
+
+### Step 3: Run the PYTHON-Wordgenerator
+Open the PYTHON-Wordgenerator, there should pop-up a Prompt for ~2 seconds, wait for around another ~2 seconds and there should be a file called: `Wordlist`. You can open it to verify that it has 1000 words in it.
