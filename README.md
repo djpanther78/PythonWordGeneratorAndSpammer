@@ -17,3 +17,18 @@ PYTHON (Warning: It's a direct download link from the official python website: `
 
 ### Step 3: Run the PYTHON-Wordgenerator
 Open the PYTHON-Wordgenerator, there should pop-up a Prompt for ~2 seconds, wait for around another ~2 seconds and there should be a file called: `Wordlist`. You can open it to verify that it has 1000 words in it.
+
+# Run the spambot
+
+### Step 1: Select the file: `Wordlist.txt` and then press CTRL+SHIFT+C
+### Step 2: Open the file in your favorite text editor (Notepad, Notepad++, etc.)
+### Step 3: Search for: `("PATH WHERE THE WORDLIST IS SAVED")` (You can find it in Rule 2, Sign 34)
+### Step 4: Select: `PATH WHERE THE WORDLIST IS SAVED` and press CTRL+V 
+### Step 5: Go to the "inputbox" (input box means the field where you wanna spam such as the WhatsApp message type field.
+### Step 6: Wait for 0-10 seconds
+### Step 7: The spam starts
+
+
+# Note from the maker
+
+### I hope this was useful, it took me a lot of work. If you have any questions then please reach out to me on Discord. My username is: `pokepanther78`. I reply to every message I get
